@@ -7,4 +7,5 @@ This game is based off of Lockheed Martin's [ATHENA laser weapon system](https:/
 ## Play the Game
 Simply run AthenaProject.java to launch the applet. Then, click "How to Play" for further instructions.
 
-![Home Page](file:///Users/laneygoldman/Desktop/Screen%20Shot%202022-09-13%20at%202.36.16%20PM.png)
+![Home Screen](https://user-images.githubusercontent.com/95505396/190014414-8a737ffa-ee83-4766-b588-2cfed079692b.png)
+![Level 1](https://user-images.githubusercontent.com/95505396/190014430-cb78d406-bca5-42b9-a592-99036bbed3ca.png)
